@@ -2,7 +2,7 @@
 Heyo!👋 <br>
 I'm Kevin Carriolo, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
 *  🧔   He/Him
-*  🧠   Learning C
+*  🧠   Learning C and Cybersecurity
 *  🌎   Available in EN and PT-BR
 *  📫   Reach me @ kevinfcdmelo@hotmail.com 
 *  🕴   I'm also on [Linkedin](https://linkedin.com/in/kevin-carriolo/)
