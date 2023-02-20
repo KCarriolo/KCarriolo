@@ -1,4 +1,4 @@
-# Who dis?
+# Whois?
 Heyo!👋 <br>
 I'm Kevin Carriolo, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
 *  🧔   He/Him
