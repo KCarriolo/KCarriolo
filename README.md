@@ -17,8 +17,6 @@ I'm Kevin Carriolo, a former Localization Manager, currently a _cadet_ (Software
 <br> <br/>
 <i>NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<i/>
 
-## How's 42 going?
-
 ### Rank 1
 
 <a href="https://github.com/KCarriolo/libft">
