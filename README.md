@@ -1,6 +1,6 @@
 # Whois?
 Hey!👋 <br>
-I'm Kevin Carriolo, a former Localization Manager, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
+I'm Kevin Carriolo, currently a _cadet_ (Software Engineering Student) [@42Rio](https://42.rio/)✨.
 *  🧔   He/Him
 *  🧠   Learning C and Cybersecurity
 *  🌎   Available in EN and PT-BR
