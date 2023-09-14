@@ -8,14 +8,6 @@ I'm Kevin Carriolo, currently a _cadet_ (Software Engineering Student) [@42Rio](
 *  🕴   I'm also on [Linkedin](https://linkedin.com/in/kevin-carriolo/)
 
 ---
-<a href="https://github.com/KCarriolo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KCarriolo&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/KCarriolo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KCarriolo&show_icons=true&theme=dracula" />
-</a>
-<br> <br/>
-<i>NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<i/>
 
 ### Rank 1
 
